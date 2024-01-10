@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PROFESSOR-DJ
-- 👀 I’m interested in Web development and data science. 
+- 👀 I’m interested in Data Science, Artificial Intelligence and Machine Learning.
 - 🌱 I’m currently learning Computer Science and Engineering. 
 - 📫 You can reach me on Discord PROFESSOR#2298
 

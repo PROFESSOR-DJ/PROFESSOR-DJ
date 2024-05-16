@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @PROFESSOR-DJ
-- 👀 I’m interested in Data Science, Artificial Intelligence and Machine Learning.
-- 🌱 I’m currently learning Computer Science and Engineering. 
-- 📫 You can reach me on Discord PROFESSOR#2298
+## 👋 Hello, I'm [PROFESSOR-DJ](https://github.com/PROFESSOR-DJ?tab=repositories)
 
-<!---
-PROFESSOR-DJ/PROFESSOR-DJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About Me
+I'm deeply passionate about **Data Science, Artificial Intelligence, and Machine Learning**. Currently, I'm pursuing my studies in **Computer Science and Engineering**, where I'm continuously expanding my knowledge and skills in these exciting fields.
+
+### Current Endeavors
+I'm dedicated to advancing my expertise in Computer Science and Engineering, with a particular focus on AI and ML technologies. My goal is to contribute to innovative projects that make a significant impact.
+
+### Connect with Me
+- **Discord**: PROFESSOR#2298
+- **LinkedIn**: [DHIRAAJ K V](https://www.linkedin.com/in/dhiraajkv/)

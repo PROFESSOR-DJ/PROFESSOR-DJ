@@ -65,14 +65,6 @@ I design systems that are reliable, maintainable, and deployment-ready.
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PROFESSOR-DJ&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PROFESSOR-DJ&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=PROFESSOR-DJ&theme=github-dark&hide_border=true" />
 </p>
 

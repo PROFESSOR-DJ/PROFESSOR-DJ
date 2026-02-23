@@ -30,22 +30,30 @@ I design systems that are reliable, maintainable, and deployment-ready.
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,go,php,sql" />
 </p>
 
 ### AI & Data
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+  <img src="https://img.shields.io/badge/Neo4j-GraphDB-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
 </p>
 
 ### Web & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,mysql,mongodb,firebase" />
 </p>
 
-### Tools & DevOps
+### Cloud & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker" />
+  <img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat-square&logo=ibmcloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,postman" />
 </p>
 
 ---

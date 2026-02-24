@@ -56,18 +56,6 @@ I design systems that are reliable, maintainable, and deployment-ready.
 
 ---
 
-## Coding & Problem Solving
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/professor-dj?theme=dark&font=baloo&ext=heatmap" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HackerRank-Problem_Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</p>
-
----
-
 ## GitHub Analytics
 
 <p align="center">
